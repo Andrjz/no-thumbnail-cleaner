@@ -18,7 +18,7 @@ It scans all your posts and moves those without a thumbnail to the trash. The pl
 
 ## How It Works
 
-1. Go to the admin menu and click **“Delete No Thumbnail”**.
+1. Go to the admin menu and click **“No Thumbnail Cleaner”**.
 2. Click the **“Start Cleanup”** button.
 3. Leave your browser tab open. The plugin will process all posts in the background.
 4. Posts without featured images will be sent to the trash.
