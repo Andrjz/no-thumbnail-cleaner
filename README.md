@@ -16,7 +16,7 @@ It scans all your posts and moves those without a thumbnail to the trash. The pl
 
 ---
 
-## 🛠 How It Works
+## How It Works
 
 1. Go to the admin menu and click **“Delete No Thumbnail”**.
 2. Click the **“Start Cleanup”** button.
