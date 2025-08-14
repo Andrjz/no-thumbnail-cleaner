@@ -12,7 +12,7 @@ It scans all your posts and moves those without a thumbnail to the trash. The pl
 - Processes posts in batches of 20 to avoid timeouts or crashes.
 - Real-time progress indicator.
 - Designed for large sites (tested on sites with over 200,000 posts).
-- No configuration needed – just install and run.
+- No configuration needed, just install and run.
 
 ---
 
