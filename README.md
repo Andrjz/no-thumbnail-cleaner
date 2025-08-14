@@ -30,7 +30,7 @@ It scans all your posts and moves those without a thumbnail to the trash. The pl
 On massive WordPress sites, cleaning up posts without thumbnails can be slow and painful.  
 This plugin works by analyzing posts in **small batches**, avoiding server overload and ensuring the process finishes even with thousands of posts.  
 
-In our tests, it successfully trashed **thousands of posts without thumbnails** on sites with more than **200,000 posts** – all in a single run.  
+In our tests, it successfully trashed **thousands of posts without thumbnails** on sites with more than **200,000 posts**.  
 
 ---
 
