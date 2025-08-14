@@ -34,14 +34,6 @@ In our tests, it successfully trashed **thousands of posts without thumbnails** 
 
 ---
 
-## Installation
-
-1. Download or clone this repository.
-2. Upload the folder to your WordPress `/wp-content/plugins/` directory.
-3. Activate **No Thumbnail Cleaner** from the WordPress Plugins page.
-
----
-
 ## Notes
 
 - Designed for **published posts** only (`post_status = publish`).
