@@ -40,8 +40,3 @@ In our tests, it successfully trashed **thousands of posts without thumbnails** 
 - Leaves all other content types (pages, custom post types) untouched.
 - You can restart the process as many times as needed – it’s safe.
 
----
-
-## License
-
-This plugin is open source and released under the MIT License.
