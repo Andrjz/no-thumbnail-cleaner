@@ -2,7 +2,7 @@
 
 **No Thumbnail Cleaner** is a super lightweight and simple WordPress plugin designed to clean up posts without featured images.  
 
-It scans all your posts and moves those without a thumbnail to the trash. The plugin processes posts in small batches to avoid overloading the server, making it ideal for massive WordPress sites.  
+It scans all your posts and moves those without a thumbnail to the trash. The plugin processes posts in small batches to avoid timeouts, crashes & overloading the server, making it ideal for massive WordPress sites.  
 
 ---
 
